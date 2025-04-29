@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    overflow: hidden; /* Oculta las barras de scroll si aparecen */
+    background-color: #000; /* Fondo negro */
+}
+
+/* El canvas de Three.js se añade automáticamente al body */
