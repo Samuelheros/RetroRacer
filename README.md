@@ -1,4 +1,1 @@
-ejeccutar index.html
-se abrira el navegador en pantalla negra
-ejecutar pyton 3 server: http://localhost:8000/
-debes tener instalado pyton 3 con path
+Sumérgete en una experiencia de carreras de obstáculos en 3D con una pista infinita que te desafiará constantemente con Retro Racer. tu habilidad para esquivar cada obstáculo es clave: cuanto más lejos llegues, mayor será la velocidad y la intensidad del desafío. ¡Retro Racer está en desarrollo y promete emoción sin fin para los amantes de la velocidad y los desafíos, version beta ya disponible!
